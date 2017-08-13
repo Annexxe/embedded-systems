@@ -1,0 +1,6 @@
+Student ID: 11, Grade: 37 
+Student ID: 12, Grade: 55 
+Student ID: 13, Grade: 99 
+Student ID: 14, Grade: 22 
+Student ID: 15, Grade: 32 
+Average: 49.000000, Standard Deviation: 27.195588
